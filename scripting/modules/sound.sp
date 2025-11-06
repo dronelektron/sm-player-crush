@@ -7,8 +7,13 @@ static char g_crushSounds[][] = {
     "npc/barnacle/neck_snap2.wav",
     "npc/vort/foot_hit.wav",
     "physics/body/body_medium_break3.wav",
-    "physics/body/body_medium_break4.wav"
-}
+    "physics/body/body_medium_break3.wav",
+    "physics/body/body_medium_break4.wav",
+    "physics/flesh/flesh_squishy_impact_hard1.wav",
+    "physics/flesh/flesh_squishy_impact_hard2.wav",
+    "physics/flesh/flesh_squishy_impact_hard3.wav",
+    "physics/flesh/flesh_squishy_impact_hard4.wav"
+};
 
 static int g_indices[sizeof(g_crushSounds)];
 static int g_currentIndex;
