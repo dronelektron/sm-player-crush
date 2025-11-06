@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PLUGIN_NAME="player-crush"
-
 cd scripting
-spcomp $PLUGIN_NAME.sp -i include -o ../plugins/$PLUGIN_NAME.smx
+
+PLUGIN_NAME="player-crush"
+$SP_1_12 $PLUGIN_NAME.sp -i include -o ../plugins/$PLUGIN_NAME.smx
