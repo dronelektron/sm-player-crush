@@ -8,7 +8,7 @@ Allows players to crush other players
 
 ### Requirements
 
-* [SourceMod](https://www.sourcemod.net) 1.11 or later
+* [SourceMod](https://www.sourcemod.net) 1.12 or later
 * [multi-target-filters](https://github.com/dronelektron/multi-target-filters) (Optional)
 
 ### Installation
